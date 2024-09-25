@@ -36,6 +36,6 @@
   - C++ with their own engine
   - They care about russian language but it's not mandatory
  
-* [can can can a man](https://www.cancancanaman.com/about.html)
+* [Can can can a man](https://www.cancancanaman.com/about.html)
   - Unity Engine
   - Strong mathematics and Shader Programming
