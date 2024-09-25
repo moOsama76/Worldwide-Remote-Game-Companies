@@ -28,8 +28,8 @@
   - Unity Engine
  
 * [Alter Learning](https://alter-learning.com/career/)
- - All Levels
- - Unity and other tech jobs
+  - All Levels
+  - Unity and other tech jobs
 
 * [Playrix](https://playrix.com/job/open)
   - All levels
