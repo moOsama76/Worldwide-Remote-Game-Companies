@@ -39,3 +39,9 @@
 * [Can can can a man](https://www.cancancanaman.com/about.html)
   - Unity Engine
   - Strong mathematics and Shader Programming
+
+* [Carry1st](https://www.carry1st.com/join-us)
+  - +/-4 hour time difference from South Africa
+
+* [Core Loop](https://coreloop.gg/#careers)
+  - UTC +/- 3
